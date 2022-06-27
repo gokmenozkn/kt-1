@@ -73,7 +73,6 @@ class MainActivity : AppCompatActivity() {
         lemonImage!!.setOnLongClickListener {
             // TODO: replace 'false' with a call to the function that shows the squeeze count
             showSnackbar()
-//            false
         }
     }
 
